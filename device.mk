@@ -496,6 +496,7 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service.legacy \
     wificond \
     libwpa_client \
+    libcld80211 \
     WifiOverlay
 
 # Connectivity
