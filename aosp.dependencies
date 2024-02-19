@@ -4,6 +4,12 @@
      "target_path": "kernel/google/wahoo"
    },
    {
+      "repository":"android_packages_apps_ElmyraService",
+      "target_path":"packages/apps/ElmyraService",
+      "branch":"unity",
+      "remote":"pixelbuilds"
+   },
+   {
      "repository": "PixelBoot/packages_apps_GoogleCamera",
      "target_path": "packages/apps/GoogleCamera",
      "branch": "thirteen",

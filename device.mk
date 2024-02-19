@@ -835,6 +835,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     zygote.critical_window.minute=10
 
+# Elmyra
+PRODUCT_PACKAGES += \
+    ElmyraService
+
 include hardware/google/pixel/vibrator/drv2624/device.mk
 include hardware/google/pixel/mm/device_legacy.mk
 include hardware/google/pixel/thermal/device.mk
