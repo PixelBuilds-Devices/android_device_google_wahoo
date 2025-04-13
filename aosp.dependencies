@@ -6,7 +6,7 @@
    {
       "repository":"android_packages_apps_ElmyraService",
       "target_path":"packages/apps/ElmyraService",
-      "branch":"unity",
+      "branch":"infinity",
       "remote":"pixelbuilds"
    },
    {
