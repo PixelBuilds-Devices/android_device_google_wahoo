@@ -9,4 +9,4 @@ WITH_GMS_COMMS_SUITE := false
 endif
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-lineage
+DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-custom
