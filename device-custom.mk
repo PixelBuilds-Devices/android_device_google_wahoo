@@ -2,6 +2,10 @@
 PRODUCT_PACKAGES += \
     ElmyraService
 
+# NowPlayingOverlay
+PRODUCT_PACKAGES += \
+    NowPlayingOverlay
+
 # GMS
 ifeq ($(WITH_GMS),true)
 GMS_MAKEFILE=gms_minimal.mk
